@@ -19,6 +19,6 @@
 
 ## Overview
 
-This add-on is for use with the Russian translation of BP-BGT Worldmap, version 8 or more recent. Using it gives you a worldmap with writing in Russian.
+This add-on is for use with the Russian translation of BP-BGT Worldmap. Using it gives you a worldmap with writing in Russian.
 
-You apply the add-on by placing the included :file_folder: *moz* folder in *bp-bgt_worldmap/language/russian*. On Windows you can do this simply by extracting the add-on on top of the extracted contents of the main BP-BGT Worldmap package.
+You apply the add-on by placing the included :file_folder: *moz* folder in *bp-bgt-worldmap/language/russian*. On Windows you can do this simply by extracting the add-on on top of the extracted contents of the main BP-BGT Worldmap package.
